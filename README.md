@@ -41,6 +41,9 @@ Run the tool using:
 ```bash
 python threat_mapping_pro.py
 ```
+<img width="1918" height="880" alt="image" src="https://github.com/user-attachments/assets/406c6653-4639-4055-8d0d-e19a151e21a5" />
+
+
 
 Upon execution, the tool displays a banner and presents a menu with the following options:
 1. **Map APT Group**: Enter an APT group name, MITRE ID (e.g., G0006), or alias (e.g., APT1, Lazarus Group) to map its techniques and tactics.
