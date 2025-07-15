@@ -76,9 +76,6 @@ Upon execution, the tool displays a banner and presents a menu with the followin
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request with your changes. Ensure code follows PEP 8 standards and includes appropriate documentation.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Author
 
