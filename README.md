@@ -30,14 +30,10 @@ pip install requests openpyxl
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/threat-mapping-pro.git
+   git clone https://github.com/mohabye/threat-mapping-pro.git
    cd threat-mapping-pro
    ```
 
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
